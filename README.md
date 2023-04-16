@@ -2,7 +2,7 @@
 	<img src="https://i.postimg.cc/Jhnbsv37/274fed5f97f238e239e89514e65dd310-32bits-256.png" />
                                                                                                                                      
 <p align="center">
-	 Vanguard is an privacy enhanced overlay to LibreWolf.
+	 Vanguard is a privacy enhanced overlay to LibreWolf.
 	 
 ## Features
 
