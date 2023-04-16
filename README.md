@@ -22,9 +22,9 @@ Privacy enhancing extensions such as...
 
 Functionality configuration tweaks for loading websites.
 
+Enabled ability to import login credentials from Chromium-Based Browsers.
+	
 Automatic containerization on most websites.
-
-The ability to import Chromium-Based browser's usernames/passwords.
 
 Fingerprint spoofing.
 
