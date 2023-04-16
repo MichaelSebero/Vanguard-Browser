@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.postimg.cc/pLvCLs1y/cb3599fe8603ed6933f547cf9e8b97d3-32bits-128.png" />
+	<img src="https://i.postimg.cc/Jhnbsv37/274fed5f97f238e239e89514e65dd310-32bits-256.png" />
                                                                                                                                      
 <p align="center">
 	 Vanguard is an privacy enhanced overlay to LibreWolf.
