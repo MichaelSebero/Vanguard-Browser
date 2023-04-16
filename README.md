@@ -16,6 +16,8 @@ Fingerprint spoofing.
 
 Optional User-Agent spoofing.
 
+An extended uBlock filter list.
+
 Privacy enhancing extensions such as...
 
 ###  . Canvas Blocker
