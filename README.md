@@ -24,6 +24,8 @@ Functionality configuration tweaks for loading websites.
 
 Automatic containerization on most websites.
 
+The ability to import Chromium-Based browser's usernames/passwords.
+
 Fingerprint spoofing.
 
-https://i.postimg.cc/kMvM64Ts/Vanguard.png
+Optional User-Agent spoofing.
