@@ -6,6 +6,16 @@
 	 
 ## Features
 
+Functionality configuration tweaks for loading websites.
+
+Enabled ability to import login credentials from Chromium-Based Browsers.
+	
+Automatic containerization on most websites.
+
+Fingerprint spoofing.
+
+Optional User-Agent spoofing.
+
 Privacy enhancing extensions such as...
 
 ###  . Canvas Blocker
@@ -19,13 +29,3 @@ Privacy enhancing extensions such as...
 ###  . User-Agent Switcher and Manager
 
 ###  . Firefox Containers
-
-Functionality configuration tweaks for loading websites.
-
-Enabled ability to import login credentials from Chromium-Based Browsers.
-	
-Automatic containerization on most websites.
-
-Fingerprint spoofing.
-
-Optional User-Agent spoofing.
