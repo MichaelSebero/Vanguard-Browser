@@ -38,10 +38,10 @@ Privacy enhancing extensions such as...
   <img src="https://i.postimg.cc/GmmL40HS/1.jpg" width="325" />
   <img src="https://i.postimg.cc/3wy3ZgjX/2.jpg" width="338" /> 
 <p align="center">
-	https://coveryourtracks.eff.org/
-<p align="center">
 <b>Left = Vanguard | Right = LibreWolf</b></p>
-
+<p align="center">
+	https://coveryourtracks.eff.org/
+	
 ## Donations and Contacts
 PayPal: https://www.paypal.com/donate/?cmd=_donations&business=YYGU9JWJEE2AG
 
