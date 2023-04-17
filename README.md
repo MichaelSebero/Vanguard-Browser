@@ -34,8 +34,8 @@ Privacy enhancing extensions such as...
 
 ## Vanguard comparison to LibreWolf
 <p align="left">
-  <img src="https://i.postimg.cc/VLw2Njd7/Screenshot-from-2023-04-17-07-12-13.png" width="600" />
-  <img src="https://i.postimg.cc/c1hBQYFk/Screenshot-from-2023-04-17-05-53-35.png" width="600" /> 
+  <img src="https://i.postimg.cc/VLw2Njd7/Screenshot-from-2023-04-17-07-12-13.png" width="400" />
+  <img src="https://i.postimg.cc/c1hBQYFk/Screenshot-from-2023-04-17-05-53-35.png" width="400" /> 
 
 ## Donations and Contacts
 PayPal: https://www.paypal.com/donate/?cmd=_donations&business=YYGU9JWJEE2AG
