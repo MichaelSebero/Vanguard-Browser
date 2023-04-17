@@ -32,13 +32,13 @@ Privacy enhancing extensions such as...
 
 ###  . Firefox Containers
 	
-<p align="center"> ## Vanguard comparison to LibreWolf
+<p align="center"><b>Vanguard and LibreWolf comparison</b></p>
 	
 <p align="center">
   <img src="https://i.postimg.cc/GmmL40HS/1.jpg" width="325" />
   <img src="https://i.postimg.cc/3wy3ZgjX/2.jpg" width="338" /> 
 <p align="center">
-Left = Vanguard | Right = LibreWolf
+Left = Vanguard Right = LibreWolf
 
 ## Donations and Contacts
 PayPal: https://www.paypal.com/donate/?cmd=_donations&business=YYGU9JWJEE2AG
