@@ -31,12 +31,13 @@ Privacy enhancing extensions such as...
 ###  . User-Agent Switcher and Manager
 
 ###  . Firefox Containers
-
+	
+<p align="center">
 ## Vanguard comparison to LibreWolf
 <p align="center">
   <img src="https://i.postimg.cc/GmmL40HS/1.jpg" width="325" />
   <img src="https://i.postimg.cc/3wy3ZgjX/2.jpg" width="338" /> 
-
+<p align="center">
 Left = Vanguard | Right = LibreWolf
 
 ## Donations and Contacts
