@@ -32,9 +32,8 @@ Privacy enhancing extensions such as...
 
 ###  . Firefox Containers
 	
-<p align="center">
+<p align="center"> ## Vanguard comparison to LibreWolf
 	
-## Vanguard comparison to LibreWolf
 <p align="center">
   <img src="https://i.postimg.cc/GmmL40HS/1.jpg" width="325" />
   <img src="https://i.postimg.cc/3wy3ZgjX/2.jpg" width="338" /> 
