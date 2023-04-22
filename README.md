@@ -18,6 +18,8 @@ Optional User-Agent spoofing.
 
 An extended uBlock filter list.
 
+Linux and Windows compatibility.
+
 Privacy enhancing extensions such as...
 
 ###  . Canvas Blocker
