@@ -9,6 +9,8 @@
 Functionality configuration tweaks for loading websites.
 
 Enabled ability to import login credentials from Chromium-Based Browsers.
+
+SearXNG is the search engine by default.
 	
 Automatic containerization on most websites.
 
