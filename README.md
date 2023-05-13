@@ -16,8 +16,6 @@ Automatic containerization on most websites.
 
 Fingerprint spoofing.
 
-Optional User-Agent spoofing.
-
 An extended uBlock filter list.
 
 Linux and Windows compatibility.
@@ -31,8 +29,6 @@ Privacy enhancing extensions such as...
 ###  . I still don't care about cookies
 
 ###  . Privacy Redirect
-
-###  . User-Agent Switcher and Manager
 
 ###  . Firefox Containers
 	
